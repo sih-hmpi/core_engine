@@ -1,0 +1,13 @@
+Component,HPI Value,HEI Value,Cd Value,Description
+Sample 1,302.451,8.333,5.333,"Based on the given water quality indices:
+HPI: 302.45 -> unsafe
+HEI: 8.33 -> low pollution
+Cd: 5.33 -> high
+
+Description: The water quality is unsafe due to heavy metal pollution, though pollution levels are relatively low with high contamination, suggesting targeted treatment to reduce contamination levels.
+"
+Sample 2,149.02,3.667,0.667,"- HPI: 149.02 -> caution
+- HEI: 3.67 -> low pollution
+- Cd: 0.67 -> low
+
+Overall, the water quality assessment indicates caution due to heavy metal pollution, with low pollution levels overall and low contamination. Regular monitoring and control measures are recommended to prevent further deterioration of water quality."
