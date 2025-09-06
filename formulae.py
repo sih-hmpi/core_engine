@@ -23,4 +23,5 @@ def calculate_indices(df):
 // routes expose -> microservice archietecutre
 // impacts and thier description of equations 
 // humidity, turbidty, temperature 
-    // date ->  
+    // date ->   10 
+
