@@ -20,8 +20,14 @@ def calculate_indices(df):
 // as -> aso2 -> pbo2 => aso2 pb02 > phyiccal, impllications 
 // csv excel 
 // csv -> json -> json -> csv 
-// routes expose -> microservice archietecutre
+// BULK routes expose -> microservice archietecutre
 // impacts and thier description of equations 
-// humidity, turbidty, temperature 
-    // date ->   10 
-
+// humidity, turbidty, temperature  ETC
+// date ->   10 
+// not harcoded -> formula registry
+// FORMULA REGISTRY MULTUABLE 
+// UNITS FRONTENDS MUTABLE // ROUTE (PARAMETERS MG/L, DATA INCOMPLTE(25 ELEMENTS ))
+# the actual code that shows the possible reactions when x y z heave metals are present - anshita
+# output should be json -Devansh
+# mole of reactions fomrula and code - Raghav
+# list of chemical reactions - kunal
