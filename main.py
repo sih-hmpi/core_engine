@@ -16,8 +16,6 @@ data = {
 
 df = pd.DataFrame(data)
 
-API_KEY = "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" 
-
 headers = {
     "Authorization": f"Bearer {API_KEY}",
     "HTTP-Referer": "http://localhost",
@@ -82,6 +80,7 @@ results_df["Cd Value"] = results_df["Cd Value"].astype(float)
 results_df.to_csv("water_quality_results.csv", index=False)
 results_df.to_excel("water_quality_results.xlsx", index=False)
 print("Results saved to water_quality_results.csv and water_quality_results.xlsx")
+
 
 
 
