@@ -92,18 +92,18 @@ def categorize_indices(HPI, HEI, Cd):
 
 
 
-// all heavy metal(45, 60), thier organic, chemical, pyhsical reqctions as same as real world (1k+) 
-// mole of every reaction, chained reactions
-// as -> aso2 -> pbo2 => aso2 pb02 > phyiccal, impllications 
-// csv excel 
-// csv -> json -> json -> csv 
-// BULK routes expose -> microservice archietecutre
-// impacts and thier description of equations 
-// humidity, turbidty, temperature  ETC
-// date ->   10 
-// not harcoded -> formula registry
-// FORMULA REGISTRY MULTUABLE 
-// UNITS FRONTENDS MUTABLE // ROUTE (PARAMETERS MG/L, DATA INCOMPLTE(25 ELEMENTS ))
+#// all heavy metal(45, 60), thier organic, chemical, pyhsical reqctions as same as real world (1k+) 
+#// mole of every reaction, chained reactions
+#// as -> aso2 -> pbo2 => aso2 pb02 > phyiccal, impllications 
+#// csv excel 
+#// csv -> json -> json -> csv 
+#// BULK routes expose -> microservice archietecutre
+#// impacts and thier description of equations 
+#// humidity, turbidty, temperature  ETC
+#// date ->   10 
+#// not harcoded -> formula registry
+#// FORMULA REGISTRY MULTUABLE 
+#// UNITS FRONTENDS MUTABLE // ROUTE (PARAMETERS MG/L, DATA INCOMPLTE(25 ELEMENTS ))
 # the actual code that shows the possible reactions when x y z heave metals are present - anshita
 # output should be json -Devansh
 # mole of reactions fomrula and code - Raghav
