@@ -3,7 +3,7 @@ import json
 from formulae import calculate_indices, categorize_indices
 
 # === Load dataset from CSV ===
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("waterqualitydataset.csv")
 
 # Convert numeric columns (force errors to NaN if something is wrong)
 for col in ["Ci", "Si", "Ii", "MACi"]:
@@ -48,3 +48,4 @@ with open("output.json", "w", encoding="utf-8") as f:
     json.dump(results, f, indent=4, ensure_ascii=False)
 
 print("Results saved to output.json")
+
